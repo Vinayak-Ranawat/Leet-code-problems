@@ -6,6 +6,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 ## Hash Table
@@ -40,4 +41,8 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
