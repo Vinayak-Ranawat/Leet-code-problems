@@ -55,4 +55,12 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
+## Math
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1486-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
