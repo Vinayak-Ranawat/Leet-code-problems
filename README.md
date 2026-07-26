@@ -6,6 +6,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
@@ -14,6 +15,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -47,6 +49,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0051-n-queens) |
@@ -63,4 +66,8 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1486-xor-operation-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
