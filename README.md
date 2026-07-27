@@ -12,6 +12,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
+| [1528-shuffle-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1528-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
+| [1528-shuffle-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1528-shuffle-string) |
 ## Math
 |  |
 | ------- |
