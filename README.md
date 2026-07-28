@@ -38,6 +38,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
@@ -63,6 +64,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0070-climbing-stairs) |
 | [1486-xor-operation-in-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -72,4 +74,8 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0037-sudoku-solver) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
