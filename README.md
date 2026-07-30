@@ -10,6 +10,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0039-combination-sum](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
@@ -55,6 +56,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0037-sudoku-solver](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
 ## String
