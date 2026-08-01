@@ -40,6 +40,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
+| [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 | [1528-shuffle-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1528-shuffle-string) |
 ## Math
 |  |
@@ -91,6 +94,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0059-spiral-matrix-ii) |
+| [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
