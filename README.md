@@ -17,6 +17,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
 | [1528-shuffle-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1528-shuffle-string) |
+| [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0059-spiral-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Memoization
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
+| [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -120,4 +123,12 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
