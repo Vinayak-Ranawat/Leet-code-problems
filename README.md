@@ -18,11 +18,13 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
 | [1528-shuffle-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1528-shuffle-string) |
 | [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
+| [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
+| [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
