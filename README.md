@@ -59,6 +59,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -134,6 +135,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -143,4 +145,12 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
