@@ -142,6 +142,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -151,10 +152,12 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
