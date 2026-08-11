@@ -13,6 +13,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0046-permutations](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0040-combination-sum-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
@@ -91,6 +93,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0078-subsets) |
 | [1486-xor-operation-in-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
