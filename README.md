@@ -14,6 +14,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0051-n-queens](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0046-permutations](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
@@ -94,6 +96,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0090-subsets-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
