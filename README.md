@@ -51,6 +51,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0942-di-string-match) |
 ## Dynamic Programming
 |  |
@@ -158,6 +159,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
