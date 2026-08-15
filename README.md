@@ -159,6 +159,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -172,4 +173,8 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
