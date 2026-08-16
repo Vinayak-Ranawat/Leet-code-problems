@@ -28,6 +28,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -49,6 +50,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -159,6 +161,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
@@ -177,4 +180,8 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
