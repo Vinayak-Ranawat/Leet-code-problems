@@ -153,6 +153,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -167,6 +168,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0141-linked-list-cycle](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -190,4 +192,8 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
