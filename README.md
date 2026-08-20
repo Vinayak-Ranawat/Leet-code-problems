@@ -18,6 +18,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0942-di-string-match) |
@@ -31,6 +32,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0141-linked-list-cycle](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -41,6 +43,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 ## Counting
