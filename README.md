@@ -75,6 +75,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
@@ -205,4 +206,12 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
