@@ -19,6 +19,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0942-di-string-match) |
@@ -45,6 +46,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -150,11 +152,13 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0942-di-string-match](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0942-di-string-match) |
 ## Depth-First Search
