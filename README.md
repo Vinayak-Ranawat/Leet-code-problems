@@ -19,6 +19,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
@@ -35,6 +36,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0142-linked-list-cycle-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -81,11 +83,13 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0225-implement-stack-using-queues](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
