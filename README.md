@@ -113,6 +113,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0441-arranging-coins) |
 | [1486-xor-operation-in-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1486-xor-operation-in-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2651-calculate-delayed-arrival-time) |
 ## Bit Manipulation
@@ -230,4 +231,8 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
