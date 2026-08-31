@@ -116,6 +116,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0441-arranging-coins) |
 | [1486-xor-operation-in-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1486-xor-operation-in-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2651-calculate-delayed-arrival-time) |
@@ -124,6 +125,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0078-subsets](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
@@ -214,6 +216,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0021-merge-two-sorted-lists](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
