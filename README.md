@@ -30,6 +30,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
 | [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,4 +249,8 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0441-arranging-coins) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
