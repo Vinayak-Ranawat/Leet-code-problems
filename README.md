@@ -28,6 +28,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [1528-shuffle-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1528-shuffle-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3904-smallest-stable-index-ii) |
@@ -42,6 +43,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0496-next-greater-element-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -225,6 +227,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0206-reverse-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -255,4 +258,8 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3904-smallest-stable-index-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
