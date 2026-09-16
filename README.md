@@ -19,6 +19,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -42,6 +43,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0142-linked-list-cycle-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -56,6 +58,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0169-majority-element](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
@@ -73,6 +76,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0142-linked-list-cycle-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0942-di-string-match) |
@@ -257,6 +261,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0441-arranging-coins) |
 ## Prefix Sum
 |  |
