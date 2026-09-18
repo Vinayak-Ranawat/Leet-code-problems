@@ -22,6 +22,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0349-intersection-of-two-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0835-image-overlap](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0912-sort-an-array) |
@@ -46,6 +47,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | [0349-intersection-of-two-arrays](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -120,6 +122,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/1528-shuffle-string) |
