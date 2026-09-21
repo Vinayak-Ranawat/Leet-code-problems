@@ -120,6 +120,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -129,6 +130,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0231-power-of-two) |
@@ -139,6 +141,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0231-power-of-two) |
@@ -158,6 +161,7 @@ A collection of Data Structures and Algorithms solutions solved in Java. Covers 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/0844-backspace-string-compare) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Vinayak-Ranawat/Leet-code-problems/tree/master/2596-check-knight-tour-configuration) |
